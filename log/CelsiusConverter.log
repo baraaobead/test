@@ -1,0 +1,106 @@
+[INFO ] 2019-07-07 15:01:28.155 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:02:18.175 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:03:08.201 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:03:58.237 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:04:27.013 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:05:17.077 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[INFO ] 2019-07-07 15:05:17.092 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:05:17.111 [Thread-1] FtpClient - 
+ NationalID not Correct:   (9827964583gf8)
+[ERROR] 2019-07-07 15:05:17.112 [Thread-1] FtpClient -  cant insert  this object : (982796458232,Esam,Kayyali,199703-10,2017-04-26 11:50:00)
+ error type:Text '199703-10' could not be parsed at index 0
+[ERROR] 2019-07-07 15:05:17.112 [Thread-1] FtpClient -  cant insert  this object : (982796458749,Murad,Hamdan,,1997-03-10)
+ error type:Text '' could not be parsed at index 0
+[INFO ] 2019-07-07 15:06:07.127 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:06:57.147 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:07:47.183 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:08:37.211 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:09:27.227 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:10:17.254 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:11:07.278 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:11:57.292 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:12:47.321 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:13:37.346 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:14:27.364 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:15:17.380 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:16:07.417 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:16:57.438 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:17:47.464 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:18:37.478 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:19:27.495 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:20:17.518 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:21:07.544 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:21:57.561 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:22:47.576 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:23:37.590 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:24:27.610 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:25:17.629 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:26:07.651 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:26:57.676 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:27:47.712 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:28:37.735 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:29:27.755 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:29:27.766 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:29:27.773 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:30:17.794 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:30:17.805 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:30:17.812 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:31:07.841 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:31:07.866 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:31:07.871 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:31:57.881 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:31:57.887 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:31:57.890 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:32:47.901 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:32:47.907 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:32:47.911 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:33:37.921 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:34:27.946 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:35:17.979 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:36:07.993 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:36:58.014 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:37:48.029 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:38:38.043 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:39:28.059 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:40:18.073 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:41:08.091 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:41:58.112 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:42:48.201 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:43:38.218 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:44:28.240 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:45:18.278 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:46:08.298 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:46:58.318 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:47:49.670 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:48:39.700 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:48:39.707 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[INFO ] 2019-07-07 15:49:58.232 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:49:58.246 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[INFO ] 2019-07-07 15:51:11.122 [Thread-1] FtpClient - this is to inform you that we are in reading stage
+[ERROR] 2019-07-07 15:51:11.130 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx (The system cannot find the file specified)
+[ERROR] 2019-07-07 15:51:11.138 [Thread-1] FtpClient - C:\Users\arabiacell02\eclipse-workspace\task2\Book1.xlsx
+[INFO ] 2019-07-07 15:52:01.149 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:52:51.170 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:53:41.193 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:54:31.231 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:55:21.280 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:56:11.321 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:57:01.346 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:57:51.376 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:58:41.391 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 15:59:31.412 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:00:21.436 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:01:11.453 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:02:01.472 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:02:51.491 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:03:41.509 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:04:31.529 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:05:21.547 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:06:11.565 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:07:01.623 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:07:51.644 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:08:41.666 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:09:31.688 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:10:21.717 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:11:11.738 [Thread-1] FtpClient - no file in queue
+[INFO ] 2019-07-07 16:12:01.777 [Thread-1] FtpClient - no file in queue
